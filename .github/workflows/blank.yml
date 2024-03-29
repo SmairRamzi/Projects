@@ -1,0 +1,4 @@
+npx create-html5-boilerplate new-site
+cd new-site
+npm install
+npm start
